@@ -5,4 +5,6 @@
 <a href="https://twitter.com/hv_z00">
   <img align="right" alt="Neo | Twitter" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+<a href="https://leetcode-cn.com/u/neohv/">
+  <img align="right" alt="Neo | LeetCode" width="33px" height="33px" src="https://static.leetcode-cn.com/cn-mono-assets/production/assets/favicon-32x32.cca5dc2d.png" />
+</a>
